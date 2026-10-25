@@ -1,1 +1,12 @@
-WRITE WHAT CHANGED IN THIS VERSION HERE, then run release.ps1.
+War of 1812 1.0.0 - first release
+
+War of Rights becomes the War of 1812: the United States (USA slot) against Britain and its allies (CSA slot).
+
+- Uniforms for both armies: US regulars, Rifles, light dragoons, Marines and militia hunting shirts; British line, light dragoons in Tarleton helmets, Royal Artillery and seamen, with period cap plates and officers' dress.
+- Period weapons: Durs Egg carbine, 1796 sabres, Sea Service arms and more, plus the draw telescope for binoculars and spyglass.
+- Artillery with 1810-1813 tables of fire.
+- Flags: US eagle national and regimental colours, the 15-star flag, state colours and dragoon guidons; British colours.
+- Interface: 1812 rank icons, soldier icons, portraits and USA / GBR victory screens with 15-star and Union flags.
+- Onslaught: American and British Survivors.
+
+Client-side only: you can join normal servers, and other players see the vanilla game.
