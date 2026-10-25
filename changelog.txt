@@ -1,12 +1,8 @@
-War of 1812 1.0.0 - first release
+War of 1812 1.1.0
 
-War of Rights becomes the War of 1812: the United States (USA slot) against Britain and its allies (CSA slot).
-
-- Uniforms for both armies: US regulars, Rifles, light dragoons, Marines and militia hunting shirts; British line, light dragoons in Tarleton helmets, Royal Artillery and seamen, with period cap plates and officers' dress.
-- Period weapons: Durs Egg carbine, 1796 sabres, Sea Service arms and more, plus the draw telescope for binoculars and spyglass.
-- Artillery with 1810-1813 tables of fire.
-- Flags: US eagle national and regimental colours, the 15-star flag, state colours and dragoon guidons; British colours.
-- Interface: 1812 rank icons, soldier icons, portraits and USA / GBR victory screens with 15-star and Union flags.
-- Onslaught: American and British Survivors.
+- Updated for the War of Rights patch of October 25, 2026.
+- Flintlock pistols are worked by hand between shots, the cock drawn back with the other hand, instead of being thumb-cocked like a revolver.
+- Uniforms: US 1812 coatee with ten bars and ten buttons, Scott's pewter buttons, Prussian blue knapsacks with the U.S. oval, grey-blue canteens and Coffee's copperas pantaloons; British officers in the scarlet undress coat with their regiments' facings, Royal Artillery in blue faced scarlet, light dragoons in the 1814 undress jacket, the 93rd's lace and green-laced militia; officers' and sergeants' sashes now sit clear of the coat; plain linen and flannel shirts.
+- Maps: 1814 newspapers (Baltimore Patriot, Frederick-Town Herald) and enlistment posters, 1814 marks on crates, hardtack and ammunition boxes (Board of Ordnance marks in the British camp), period tea and snuff canisters, portraits as silhouettes and miniatures; telegraph wires and railroad rails removed, the Potomac bridge in timber.
 
 Client-side only: you can join normal servers, and other players see the vanilla game.
