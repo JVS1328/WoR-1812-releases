@@ -1,7 +1,7 @@
 # WoR-1812-releases
 
 Public release files for **War of Rights: War of 1812**, read by the
-[WoR Mod Manager](https://github.com/JVS1328/WoR-ModManager). The mod's source lives in the private
+[WoR Mod Manager](https://github.com/JVS1328/WoR-ModManager-releases). The mod's source lives in the private
 `WoR-Napoleon` repo; this repo only holds what players download.
 
 ## What the manager reads
