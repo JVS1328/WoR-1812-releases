@@ -1,8 +1,6 @@
-War of 1812 1.1.0
+War of 1812 1.2.0
 
-- Updated for the War of Rights patch of October 25, 2026.
-- Flintlock pistols are worked by hand between shots, the cock drawn back with the other hand, instead of being thumb-cocked like a revolver.
-- Uniforms: US 1812 coatee with ten bars and ten buttons, Scott's pewter buttons, Prussian blue knapsacks with the U.S. oval, grey-blue canteens and Coffee's copperas pantaloons; British officers in the scarlet undress coat with their regiments' facings, Royal Artillery in blue faced scarlet, light dragoons in the 1814 undress jacket, the 93rd's lace and green-laced militia; officers' and sergeants' sashes now sit clear of the coat; plain linen and flannel shirts.
-- Maps: 1814 newspapers (Baltimore Patriot, Frederick-Town Herald) and enlistment posters, 1814 marks on crates, hardtack and ammunition boxes (Board of Ordnance marks in the British camp), period tea and snuff canisters, portraits as silhouettes and miniatures; telegraph wires and railroad rails removed, the Potomac bridge in timber.
+- Winter greatcoats: the Americans' greatcoats are no longer the Civil War sky blue. They are now the 1810 regulation watch coat cloth, a dark drab woven with scarlet, with white-metal buttons.
+- US officers' long coats (1812 and 1813): the cuffs and skirts are now the same blue as the coat instead of a lighter shade. The regiment portraits are updated to match.
 
 Client-side only: you can join normal servers, and other players see the vanilla game.
