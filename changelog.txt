@@ -1,6 +1,7 @@
-War of 1812 1.2.0
+War of 1812 1.3.0
 
-- Winter greatcoats: the Americans' greatcoats are no longer the Civil War sky blue. They are now the 1810 regulation watch coat cloth, a dark drab woven with scarlet, with white-metal buttons.
-- US officers' long coats (1812 and 1813): the cuffs and skirts are now the same blue as the coat instead of a lighter shade. The regiment portraits are updated to match.
+- Light dragoons' overalls no longer clip through the riding boots. They are now worn over the boot, as overalls were, still grey with the double yellow stripe.
+- American infantry gaiters (grey and white trousers): no longer skinny or pinched at the knee. Each gaiter is now one piece of black wool from the shoe to just below the knee, without the old ridge at mid-calf or the knitted-stocking look. The trousers no longer show through at the calf and heel, and the buttons sit on the cloth.
+- The 3rd Ohio's leggings get the same fixes.
 
 Client-side only: you can join normal servers, and other players see the vanilla game.
