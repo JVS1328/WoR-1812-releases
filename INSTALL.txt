@@ -1,0 +1,67 @@
+War of Rights: War of 1812 (1812-15)
+====================================
+
+Version 1.3.3
+Built for War of Rights Steam build 26223473 (October 26, 2026).
+
+The United States take the USA slot; Britain and its Canadian, colonial and
+First Nations allies take the CSA slot.
+
+
+WHAT'S NEW IN 1.3.3
+-------------------
+- The dapple-grey horse is a grey horse again. It had been turned into a
+  pack mule, a leftover from the Mexican-American War mod this one grew out
+  of.
+
+WHAT'S NEW IN 1.3.2
+-------------------
+- Artillery aiming: the guns no longer block your view when laying them.
+  Each barrel sits on its trunnions the way the base game's guns do and is
+  set at the angle that keeps it under your line of sight.
+- The 12-pdr Napoleon 1857 now carries the British 9-pounder (Britain's main
+  heavy field gun of 1813-15).
+
+
+INSTALL
+-------
+Easiest: install it with the WoR Mod Manager, which also keeps it updated.
+
+By hand:
+1. Open your War of Rights folder. In Steam: right-click War of Rights >
+   Manage > Browse local files.
+2. Open the Assets folder.
+3. Copy every z_w12_*.pak file from this zip into Assets. Put them straight
+   into Assets, not into a subfolder.
+4. Start the game.
+
+
+UPDATE
+------
+Delete all the old z_w12_*.pak files from Assets first, then copy in the new
+ones. Some files may be added or dropped between versions, so don't just
+copy over the top.
+
+
+UNINSTALL
+---------
+Delete every z_w12_*.pak file from Assets. Nothing else is changed.
+
+Only have one period mod installed at a time: the Mexican-American War,
+War of 1812 and Crimean War mods replace the same game files.
+
+
+AFTER A GAME UPDATE
+-------------------
+When War of Rights gets a patch, remove the mod until an updated version is
+released (the WoR Mod Manager picks it up for you).
+
+
+PLAYING ONLINE
+--------------
+The mod only changes what you see. You can join normal servers, and other
+players don't need it installed. They will see the vanilla game, and you
+will see everyone in 1812-15 uniforms.
+
+The muskets and rifles keep one fixed sight setting, as the arms of 1812-15
+had: the mouse wheel no longer steps the rear sight while aiming.
