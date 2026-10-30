@@ -1,12 +1,25 @@
 War of Rights: War of 1812 (1812-15)
 ====================================
 
-Version 1.4.0
+Version 1.4.1
 Built for War of Rights Steam build 26270438 (October 28, 2026).
 
 The United States take the USA slot; Britain and its Canadian, colonial and
 First Nations allies take the CSA slot.
 
+
+WHAT'S NEW IN 1.4.1
+-------------------
+- The last mixed-up kit is gone. 1.4.0 dressed almost every regiment in its
+  own uniform; these units still had a few odd coats or trousers and now
+  wear only their own:
+  - the Naval Brigade, all in seamen's jackets;
+  - the American artillery's majors and colonels, in artillery officers'
+    coats;
+  - the 104th Foot, all in buff-faced coats;
+  - the 93rd Highlanders, officers included, all in tartan trews, with shoes
+    and gaiters or boots.
+- NCOs and officers in these coats wear the rank insignia made for them.
 
 WHAT'S NEW IN 1.4.0
 -------------------
