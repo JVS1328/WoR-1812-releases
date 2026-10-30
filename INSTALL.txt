@@ -1,12 +1,32 @@
 War of Rights: War of 1812 (1812-15)
 ====================================
 
-Version 1.3.5
+Version 1.4.0
 Built for War of Rights Steam build 26270438 (October 28, 2026).
 
 The United States take the USA slot; Britain and its Canadian, colonial and
 First Nations allies take the CSA slot.
 
+
+WHAT'S NEW IN 1.4.0
+-------------------
+- Every regiment now wears its own uniform. A regiment's kit is drawn from
+  its wardrobe, and until now those wardrobes held everyone's coats and hats
+  mixed together. Now each one holds only that unit's dress, in the game and
+  in the customize screen alike:
+  - American regulars in the 1812 and 1813 coatees and felt caps, militia
+    in round hats and hunting shirts, Scott's brigade in grey, the Rifles in
+    green, the light dragoons all in the dragoon helmet, and the artillery
+    in artillery coatees and caps.
+  - British line regiments in coats of their own facing colour: blue for
+    the Royal Scots, 4th, 7th, 8th and 21st, yellow for the 6th, 13th, 44th,
+    82nd and 100th, buff for the Buffs, 27th and 104th, and so on. They wear
+    the Belgic and stovepipe shakos. The 95th, Glengarries, Voltigeurs,
+    Chasseurs, 93rd, marines, seamen, light dragoons and Royal Artillery
+    each wear their own dress.
+  - Majors and colonels in the cocked hat.
+- If you customised a regiment before, check its kit in the customize
+  screen: some items you picked may no longer be offered.
 
 WHAT'S NEW IN 1.3.5
 -------------------
