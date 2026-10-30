@@ -1,9 +1,10 @@
-War of 1812 1.4.0
+War of 1812 1.4.1
 
-- Every regiment now wears its own uniform. A regiment's kit is drawn from its wardrobe, and until now those wardrobes held everyone's coats and hats mixed together. Now each one holds only that unit's dress, in the game and in the customize screen alike:
-  - American regulars in the 1812 and 1813 coatees and felt caps, militia in round hats and hunting shirts, Scott's brigade in grey, the Rifles in green, the light dragoons all in the dragoon helmet, and the artillery in artillery coatees and caps.
-  - British line regiments in coats of their own facing colour: blue for the Royal Scots, 4th, 7th, 8th and 21st, yellow for the 6th, 13th, 44th, 82nd and 100th, buff for the Buffs, 27th and 104th, and so on. They wear the Belgic and stovepipe shakos. The 95th, Glengarries, Voltigeurs, Chasseurs, 93rd, marines, seamen, light dragoons and Royal Artillery each wear their own dress.
-  - Majors and colonels in the cocked hat.
-- If you customised a regiment before, check its kit in the customize screen: some items you picked may no longer be offered.
+- The last mixed-up kit is gone. 1.4.0 dressed almost every regiment in its own uniform; these units still had a few odd coats or trousers and now wear only their own:
+  - the Naval Brigade, all in seamen's jackets;
+  - the American artillery's majors and colonels, in artillery officers' coats;
+  - the 104th Foot, all in buff-faced coats;
+  - the 93rd Highlanders, officers included, all in tartan trews, with shoes and gaiters or boots.
+- NCOs and officers in these coats wear the rank insignia made for them.
 
 Client-side only: you can join normal servers, and other players see the vanilla game.
