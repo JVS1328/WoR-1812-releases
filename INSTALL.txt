@@ -1,12 +1,18 @@
 War of Rights: War of 1812 (1812-15)
 ====================================
 
-Version 1.4.1
-Built for War of Rights Steam build 26270438 (October 28, 2026).
+Version 1.4.2
+Built for War of Rights Steam build 26380415 (November 2, 2026).
 
 The United States take the USA slot; Britain and its Canadian, colonial and
 First Nations allies take the CSA slot.
 
+
+WHAT'S NEW IN 1.4.2
+-------------------
+- Updated for the War of Rights patch of November 2, 2026 (Steam build
+  26380415). The mod's weapon data and regiment loadouts now include the
+  patch's own changes, so the mod works with the new game version.
 
 WHAT'S NEW IN 1.4.1
 -------------------
