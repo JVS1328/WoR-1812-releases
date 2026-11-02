@@ -1,12 +1,18 @@
 War of Rights: War of 1812 (1812-15)
 ====================================
 
-Version 1.4.2
+Version 1.4.3
 Built for War of Rights Steam build 26380415 (November 2, 2026).
 
 The United States take the USA slot; Britain and its Canadian, colonial and
 First Nations allies take the CSA slot.
 
+
+WHAT'S NEW IN 1.4.3
+-------------------
+- Spyglass on horseback: mounted officers now hold and raise the spyglass
+  like a spyglass. Before, they held it up to their eyes like field
+  glasses.
 
 WHAT'S NEW IN 1.4.2
 -------------------
