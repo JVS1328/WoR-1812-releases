@@ -1,5 +1,5 @@
-War of 1812 1.4.2
+War of 1812 1.4.3
 
-- Updated for the War of Rights patch of November 2, 2026 (Steam build 26380415). The mod's weapon data and regiment loadouts now include the patch's own changes, so the mod works with the new game version.
+- Spyglass on horseback: mounted officers now hold and raise the spyglass like a spyglass. Before, they held it up to their eyes like field glasses.
 
 Client-side only: you can join normal servers, and other players see the vanilla game.
