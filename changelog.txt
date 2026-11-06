@@ -1,5 +1,6 @@
-War of 1812 1.4.3
+War of 1812 1.4.4
 
-- Spyglass on horseback: mounted officers now hold and raise the spyglass like a spyglass. Before, they held it up to their eyes like field glasses.
+- Lighter on memory: about 990 MB of uniform textures the mod carried two or more times (mostly the same cloth texture saved once per facing colour) are now stored once and shared. Nothing looks different: every uniform shows exactly the same pixels as before. This should help PCs that got a black screen or low-detail textures after several rounds.
+- Updated for the War of Rights patch of November 4, 2026 (Steam build 26426403): soldiers carrying a short sword now get the patch's new movement animations.
 
 Client-side only: you can join normal servers, and other players see the vanilla game.
